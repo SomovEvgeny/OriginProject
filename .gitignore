@@ -7,3 +7,5 @@
 /build
 /captures
 .externalNativeBuild
+Будет удалено app/libs/
+Будет удалено app/src/main/res/drawable/
